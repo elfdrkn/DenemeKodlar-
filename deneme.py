@@ -1,2 +1,0 @@
-a = "merhaba"
-print("Elif")
